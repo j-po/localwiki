@@ -16,3 +16,4 @@ django-qsstats-magic==0.7
 -e git+git://github.com/philipn/django-south.git@localwiki_master#egg=South-0.8.1-custom2
 django-picklefield==0.3.0
 django-constance==0.6
+django-gravatar2==1.1.3

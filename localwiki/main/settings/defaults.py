@@ -255,6 +255,7 @@ INSTALLED_APPS = (
     'honeypot',
     'constance.backends.database',
     'constance',
+    'django_gravatar',
 
     # Our apps
     'versionutils.versioning',
